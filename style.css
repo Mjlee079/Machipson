@@ -29,7 +29,7 @@ nav{
 
 ul{
     display: flex;
-    padding:5vh 90px 20px 0;
+    padding:5vh 60px 20px 0;
     gap: 3rem;
 }
 nav ul li a{
@@ -49,7 +49,7 @@ nav ul li a{
 
 .side-bar{
     height: 100vh;
-    width: 45vw;
+    width: 55vw;
     background-color: hsl(36, 100%, 99%);
     float: right;
     position: fixed;
@@ -171,7 +171,6 @@ nav ul li a{
     gap: 5px;
     flex-wrap: wrap;
     padding-top: 30px;
-
   }
   
 .box1-content1 { flex-grow: 4; }
